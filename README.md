@@ -1,6 +1,12 @@
 # 🚦 AI-Powered Traffic Accident Analysis Dashboard
 
 An end-to-end **Data Analytics and Machine Learning project** that analyzes large-scale traffic accident data to uncover patterns, identify accident hotspots, and provide actionable insights through visualizations and AI techniques.
+![Python](https://img.shields.io/badge/Python-3.14-blue)
+![Pandas](https://img.shields.io/badge/Pandas-Data%20Analysis-green)
+![Scikit-Learn](https://img.shields.io/badge/Scikit--Learn-Machine%20Learning-orange)
+![Matplotlib](https://img.shields.io/badge/Matplotlib-Visualization-red)
+![GitHub](https://img.shields.io/badge/GitHub-Portfolio-black)
+
 
 ## 📌 Project Overview
 
@@ -14,6 +20,28 @@ This project uses the **US Accidents Dataset (2016–2023)** to analyze accident
 * 📍 Accident Hotspot Detection using K-Means Clustering
 * 📈 Data Visualization and Insights
 * 🤖 Machine Learning-Based Risk Zone Identification
+
+## 📸 Project Visualizations
+
+### Accident Severity Distribution
+
+![Severity Distribution](screenshots/severity_distribution.png)
+
+
+### Weather Conditions During Accidents
+
+![Weather Analysis](screenshots/weather_conditions.png)
+
+
+### Accidents by Hour of Day
+
+![Hourly Analysis](screenshots/accidents_by_hour.png)
+
+
+### AI-Based Accident Hotspot Detection
+
+![Hotspot Detection](screenshots/hotspot_detection.png)
+
 
 ## 🛠️ Tech Stack
 
