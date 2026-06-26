@@ -7,6 +7,33 @@ An end-to-end **Data Analytics and Machine Learning project** that analyzes larg
 ![Matplotlib](https://img.shields.io/badge/Matplotlib-Visualization-red)
 ![GitHub](https://img.shields.io/badge/GitHub-Portfolio-black)
 
+## 🎯 Project Objectives
+
+* Analyze large-scale traffic accident datasets.
+* Identify accident severity patterns.
+* Study the impact of weather conditions on accidents.
+* Analyze accident occurrence by time of day.
+* Detect accident-prone regions using Machine Learning.
+* Build an interactive AI-powered analytics dashboard.
+
+## 📸 Project Visualizations
+
+### 📊 Accident Severity Distribution
+
+![Severity Distribution](screenshots/severity_distribution.png)
+
+### 🌦️ Weather Conditions Analysis
+
+![Weather Analysis](screenshots/weather_conditions.png)
+
+### ⏰ Accidents by Hour of Day
+
+![Hourly Analysis](screenshots/accidents_by_hour.png)
+
+### 📍 AI-Based Accident Hotspot Detection
+
+![Hotspot Detection](screenshots/hotspot_detection.png)
+
 
 ## 📌 Project Overview
 
@@ -20,27 +47,6 @@ This project uses the **US Accidents Dataset (2016–2023)** to analyze accident
 * 📍 Accident Hotspot Detection using K-Means Clustering
 * 📈 Data Visualization and Insights
 * 🤖 Machine Learning-Based Risk Zone Identification
-
-## 📸 Project Visualizations
-
-### Accident Severity Distribution
-
-![Severity Distribution](screenshots/severity_distribution.png)
-
-
-### Weather Conditions During Accidents
-
-![Weather Analysis](screenshots/weather_conditions.png)
-
-
-### Accidents by Hour of Day
-
-![Hourly Analysis](screenshots/accidents_by_hour.png)
-
-
-### AI-Based Accident Hotspot Detection
-
-![Hotspot Detection](screenshots/hotspot_detection.png)
 
 
 ## 🛠️ Tech Stack
